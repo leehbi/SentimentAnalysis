@@ -1,0 +1,5 @@
+This repo holds the python source code for scraping/preprocessing text/calculating sentiment
+
+It uses NLTK and other python packages.
+
+This was used in the online meet up on 31/3/2020.
