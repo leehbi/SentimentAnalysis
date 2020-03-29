@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+.vscode
+output.csv
+settings_secret.py
+WordCloud.jpg
