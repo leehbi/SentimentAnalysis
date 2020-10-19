@@ -79,7 +79,7 @@ Semantics refers to the meaning of the sentence. A sentence that is syntacticall
 
 # Examples
 
-| Type  | Sentance | Resut
+| Type  | Sentence | Result
 |---|---|---|
 |Lower case|I Love Python|i love python
 |Punctuation|Where is Guido ?|Where is Guido
@@ -103,13 +103,13 @@ Lee wants to analyse the sentiment of his blog.
 
 # Data pipeline steps
 
-Posts on leehbi.com/blog 
-Extract paragraphs
-Load to Dataframe 
-Clean Data
-Prepare Data
-Extract Sentiment
-Summarise results : Worldcloud, Averages
+* Posts on leehbi.com/blog 
+* Extract paragraphs
+* Load to Dataframe 
+* Clean Data
+* Prepare Data
+* Extract Sentiment
+* Summarise results : Worldcloud, Averages
 
 # Other use cases
 
